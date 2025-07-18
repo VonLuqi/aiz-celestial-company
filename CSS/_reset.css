@@ -1,0 +1,33 @@
+/*
+Vonluqi's CSS Reset
+v1.0.0 | 2025-05-23
+License: none (public domain)
+*/
+
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+    line-height: 1;
+    list-style: none;
+    quotes: none;
+    border-collapse: collapse;
+    border-spacing: 0;
+    text-decoration: none;
+    border: none;
+}
+
+:focus
+{
+    outline: none;
+}
+
+:before, :after
+{
+    content: '';
+    content: none;
+}
