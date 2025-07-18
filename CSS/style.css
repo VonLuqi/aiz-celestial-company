@@ -25,7 +25,6 @@ body
     background-color: var(--white-color);
     color: var(--black-color);
     height: fit-content;
-    width: 100dvw;
 
     font-family: var(--font-primaria);
 }
@@ -36,7 +35,6 @@ body
     justify-content: center;
     align-items: center;
     height: 125px;
-    width: 100vw;
     background: var(--black-color);
     z-index: 2;
     box-shadow: 0px 0px 15px 0px rgba(39, 33, 79, 0.50);
